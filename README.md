@@ -9,12 +9,12 @@ Frontend Developer focused on building clean and responsive web applications.
 
 💻 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js&perline=4" />
 </p>
 
 🎨 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&perline=4" />
 </p>
 
 🧠 Concepts  
@@ -38,7 +38,4 @@ Frontend Developer focused on building clean and responsive web applications.
   </a>
 </p>
 
----
 
-### 💡 About Me  
-I enjoy building real projects and improving my skills through hands-on practice and teamwork.  
