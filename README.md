@@ -1,26 +1,44 @@
-Hi, I'm Mariam 👋
+## Hi, I'm Mariam 👋  
 
-2nd Year Computer Science Student at FCAI-CU
-Frontend Developer focused on building clean and responsive web applications.
+**2nd Year Computer Science Student at FCAI-CU**  
+Frontend Developer focused on building clean and responsive web applications.  
 
-🛠 Tech Stack
+---
 
-💻 Languages
+### 🛠 Tech Stack  
 
-<p> <img src="https://skillicons.dev/icons?i=cpp,python,java,js" /> p>
+💻 Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js" />
+</p>
 
-🎨 Frontend
+🎨 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
 
-<p> <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" /> p>
+🧠 Concepts  
+- OOP  
+- Problem Solving  
 
-🧠 Concepts
+🛠 Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 
-OOP
+---
 
-Problem Solving
+### 📫 Contact  
+<p>
+  <a href="https://www.linkedin.com/in/mariam-yasser-a37b1b33b">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:yassermariam444@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
-🛠 Tools
+---
 
-<p> <img src="https://skillicons.dev/icons?i=git,github" /> p>
-📫 Contact
-<p> <a href="https://www.linkedin.com/in/mariam-yasser-a37b1b33b"> <img src="https://skillicons.dev/icons?i=linkedin" /> a> <a href="mailto:yassermariam444@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> a> p>
+### 💡 About Me  
+I enjoy building real projects and improving my skills through hands-on practice and teamwork.  
