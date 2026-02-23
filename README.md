@@ -20,7 +20,6 @@ Frontend Developer focused on building clean and responsive web applications.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
 </p>
 ---
-
 ### Contact  
 <p>
   <a href="https://www.linkedin.com/in/mariam-yasser-a37b1b33b">
