@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Mariam 👋
 
-<!--
-**MariamYasser227/MariamYasser227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd Year Computer Science Student at FCAI-CU
+Frontend Developer focused on building clean and responsive web applications.
 
-Here are some ideas to get you started:
+🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Languages
+
+<p> <img src="https://skillicons.dev/icons?i=cpp,python,java,js" /> p>
+
+🎨 Frontend
+
+<p> <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" /> p>
+
+🧠 Concepts
+
+OOP
+
+Problem Solving
+
+🛠 Tools
+
+<p> <img src="https://skillicons.dev/icons?i=git,github" /> p>
+📫 Contact
+<p> <a href="https://www.linkedin.com/in/mariam-yasser-a37b1b33b"> <img src="https://skillicons.dev/icons?i=linkedin" /> a> <a href="mailto:yassermariam444@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> a> p>
