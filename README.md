@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,javascript,python,java,react,tailwind,bootstrap,vite,git,github,vscode,vercel,figma,OOP" />
+    <img src="https://skillicons.dev/icons?i=cpp,javascript,python,java,react,tailwind,bootstrap,vite,git,github,vscode,vercel,figma" />
   </a>
 </p>
 
@@ -43,11 +43,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Reach%20for%20the%20stars%20even%20if%20you%20have%20to%20stand%20on%20a%20cactus.&author=Mariam%20Yasser" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_footer.gif" width="100%">
-</p>
