@@ -5,7 +5,6 @@
 ### 🌌 Mission Log
 - 🎓 **Identity:** 2nd Year Computer Science Student at **Cairo University (FCAI-CU)**.
 - 🚀 **Current Orbit:** Mastering **Frontend Development** & React Ecosystem.
-- 🛠️ **Project Alpha:** Building an **Online Examination System**.
 - 🎨 **Aesthetics:** Crafting modern, responsive UI with a touch of magic.
 
 ---
