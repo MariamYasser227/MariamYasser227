@@ -9,7 +9,7 @@
 
 ---
 
-### 🛸 Navigation Tools (Tech Stack)
+### 🛸 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,7 +19,7 @@
 
 ---
 
-### 📡 Deep Space Analytics (GitHub Stats)
+### 📡 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MariamYasser227&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
