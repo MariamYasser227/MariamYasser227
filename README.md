@@ -1,12 +1,4 @@
-# <p align="center">✨ Welcome to Mariam's Space Station ✨</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=7441ff&height=200&section=header&text=Mariam%20Yasser&fontSize=80&animation=fadeIn&fontAlignY=35&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MariamYasser227&label=Space%20Travelers&color=11eda4&style=flat-square" alt="MariamYasser227" />
-</p>
+# <p align="center">✨ Hello I'm Mariam Yasser ✨</p>
 
 ---
 
