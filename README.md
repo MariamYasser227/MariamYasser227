@@ -27,7 +27,7 @@
 **Frontend & Tools**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite,git,github,vscode" />
   </a>
 </p>
 
@@ -38,10 +38,10 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=mariam-yasser&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MariamYasser227&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam-yasser&layout=compact&theme=tokyonight&hide_border=true&hide=assembly,html" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamYasser227&layout=compact&theme=tokyonight&hide_border=true&hide=assembly,html" width="100%" />
     </td>
   </tr>
 </table>
