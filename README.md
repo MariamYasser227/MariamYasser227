@@ -23,8 +23,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MariamYasser227&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamYasser227&layout=compact&theme=tokyonight&hide_border=false&hide=assembly,html" width="41%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamYasser227&layout=compact&theme=tokyonight&hide_border=false&hide=assembly" width="41%" /></p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariamYasser227&theme=tokyonight&hide_border=false" width="90%" />
