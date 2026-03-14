@@ -1,11 +1,9 @@
-# <p align="center">✨ Hello I'm Mariam Yasser ✨</p>
+# <p align="center">Hello I'm Mariam Yasser !</p>
 
 ---
 
-### 🌌 Mission Log
-- 🎓 **Identity:** 2nd Year Computer Science Student at **Cairo University (FCAI-CU)**.
-- 🚀 **Current Orbit:** Mastering **Frontend Development** & React Ecosystem.
-- 🎨 **Aesthetics:** Crafting modern, responsive UI with a touch of magic.
+I’m a Computer Science student at the Faculty of Computers and Artificial Intelligence, Cairo University (FCAI-CU), with a strong focus on Frontend Development and problem-solving.
+I specialize in React and actively strengthen my algorithmic thinking through competitive programming and hands-on projects. Passionate about building scalable, real-world applications and continuously developing toward becoming a well-rounded full-stack engineer.
 
 ---
 
@@ -13,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,javascript,python,java,react,tailwind,bootstrap,vite,git,github,vscode,vercel,figma" />
+    <img src="https://skillicons.dev/icons?i=cpp,javascript,python,java,react,tailwind,bootstrap,vite,github,figma" />
   </a>
 </p>
 
